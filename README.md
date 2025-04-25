@@ -1,1 +1,3 @@
-# FelicidadDesigualdad
+# Felicidad y Desigualdad
+
+Se analiza la relación entre la desigualdad urbana y el bienestar subjetivo en Latinoamérica. Para hacerlo, se estudiaron imágenes satelitales y el valor de felicidad promedio de un conjunto de más de mil ciudades. Se extraen patrones objetivos de heterogeneidad visual, a partir de los cuales se  generan indicadores de desigualdad. Estos indicadores de desigualdad presentan ciertas ventajas respecto a los indicadores tradicionales objetivos (granularidad) y subjetivos (escalabilidad, consistencia y precisión). Se advierte una correlación negativa estadísticamente significativa entre los indicadores objetivos de desigualdad y el bienestar subjetivo. Esta relación es particularmente significativa para las imágenes con un radio aproximado de 10 kilómetros, lo que se entiende como una validación de los efectos de la red de influencia social sobre las personas. 
