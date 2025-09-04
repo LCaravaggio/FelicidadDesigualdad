@@ -11,6 +11,7 @@ Se puede acceder a las imágenes satelitales descargadas en los siguientes links
 [Data Set 4 - OCDE](https://www.kaggle.com/datasets/leonardocaravaggio/ge-images4) </br>
 [Data Set 5 - EPH](https://www.kaggle.com/datasets/leonardocaravaggio/ge-images5) </br>
 [Data Set 6 - OCDE 40km](https://www.kaggle.com/datasets/leonardocaravaggio/ge-images6) </br>
+[Data Set 7 - Abbate](https://www.kaggle.com/datasets/leonardocaravaggio/ge-images7) </br>
 
 # Estado
 
