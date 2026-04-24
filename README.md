@@ -15,4 +15,4 @@ Se puede acceder a las imágenes satelitales descargadas en los siguientes links
 
 # Estado
 
-El trabajo se encuentra actualmente en estado de revisión para su publicación en una revista y solo circulan versiones privadas. 
+El trabajo fue aceptado para su publicación en la Revista de Economía del Rosario y se encuentra actualmente en etapa de revisión de estilo. 
