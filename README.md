@@ -13,6 +13,15 @@ Se puede acceder a las imágenes satelitales descargadas en los siguientes links
 [Data Set 6 - OCDE 40km](https://www.kaggle.com/datasets/leonardocaravaggio/ge-images6) </br>
 [Data Set 7 - Abbate](https://www.kaggle.com/datasets/leonardocaravaggio/ge-images7) </br>
 
-# Estado
+## Estado
+El trabajo fue publicado por la [Revista de Economía del Rosario](https://revistas.urosario.edu.co) en 2026: https://revistas.urosario.edu.co/index.php/economia/article/view/16048 </br>
 
-El trabajo fue aceptado para su publicación en la Revista de Economía del Rosario y se encuentra actualmente en etapa de revisión de estilo. 
+## How to cite
+```
+@article{Caravaggio2025,
+title={Desigualdad de ingresos local y bienestar subjetivo en Latinoamérica},
+url={https://revistas.urosario.edu.co/index.php/economia/article/view/16048},
+DOI={https://doi.org/10.12804/revistas.urosario.edu.co/economia/a.16048},
+vol={28}, number={1}, journal={Revista de Economía del Rosario},
+author={Caravaggio, Leonardo}, year={2025}, month={mar.},
+}
